@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\bin\Debug\Sinitskaya2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\bin\Debug\Sinitskaya2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\obj\Debug\Sinitskaya2.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\obj\Debug\Sinitskaya2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\obj\Debug\Sinitskaya2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\obj\Debug\Sinitskaya2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\obj\Debug\Sinitskaya2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Sinitskaya2\Sinitskaya2\obj\Debug\Sinitskaya2.csprojResolveAssemblyReference.cache
